@@ -1,0 +1,26 @@
+PCAD Importer Log
+Project : MSP430G2553IPW0_Q1.LibPkg
+
+Section : E:\Project\altium\my_lv_board_db\LIB\MSP430G2553IPW0_Q1.lia
+    Section : PCB Library - MSP430G2553IPW0_Q1.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MSP430G2553IPW0_Q1 On Line 126
+            Warning - 1 : Skipping Token attachedSymbol On Line 355
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MSP430G2553IPW0_Q1.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 115
+        EndSection
+
+        Section : Generating SCH Library - MSP430G2553IPW0_Q1.SchLib
+        EndSection
+    EndSection
+EndSection

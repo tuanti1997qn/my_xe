@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : CDCVF2505PWR.LibPkg
+
+Section : E:\Project\altium\my_lv_board_db\LIB\CDCVF2505PWR.lia
+    Section : PCB Library - CDCVF2505PWR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token CDCVF2505PWR On Line 189
+            Warning - 1 : Skipping Token attachedSymbol On Line 296
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - CDCVF2505PWR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 144
+        EndSection
+
+        Section : Generating SCH Library - CDCVF2505PWR.SchLib
+        EndSection
+    EndSection
+EndSection

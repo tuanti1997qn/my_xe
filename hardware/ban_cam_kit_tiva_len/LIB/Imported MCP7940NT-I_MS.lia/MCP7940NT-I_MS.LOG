@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : MCP7940NT-I_MS.LibPkg
+
+Section : E:\Project\altium\my_lv_board_db\LIB\MCP7940NT-I_MS.lia
+    Section : PCB Library - MCP7940NT-I_MS.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MCP7940N On Line 255
+            Warning - 1 : Skipping Token attachedSymbol On Line 362
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MCP7940NT-I_MS.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 145
+            Warning - 1 : Skipping Token layerContents On Line 196
+            Warning - 1 : Skipping Token layerContents On Line 203
+        EndSection
+
+        Section : Generating SCH Library - MCP7940NT-I_MS.SchLib
+        EndSection
+    EndSection
+EndSection

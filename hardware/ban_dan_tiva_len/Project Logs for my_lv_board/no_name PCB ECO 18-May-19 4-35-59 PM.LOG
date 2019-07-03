@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=LED_DEBUG_1 Pin=R4-2
+Removed Pin From Net: NetName=LED_DEBUG_2 Pin=R5-2
+Added Pin To Net: NetName=LED_DEBUG_1 Pin=U4-6
+Added Pin To Net: NetName=LED_DEBUG_2 Pin=U4-7
+Added Pin To Net: NetName=LED_DEBUG_1_ Pin=R4-2
+Added Pin To Net: NetName=LED_DEBUG_1_ Pin=U4-14
+Added Net: Name=LED_DEBUG_1_
+Added Pin To Net: NetName=LED_DEBUG_2_ Pin=R5-2
+Added Pin To Net: NetName=LED_DEBUG_2_ Pin=U4-13
+Added Net: Name=LED_DEBUG_2_
+Added Member To Class: ClassName=no_name Member=Component R4 RESISTOR SMD

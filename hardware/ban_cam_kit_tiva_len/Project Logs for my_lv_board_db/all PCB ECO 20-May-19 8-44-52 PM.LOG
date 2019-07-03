@@ -1,0 +1,35 @@
+Added Pin To Net: NetName=VCC Pin=C16-1
+Added Pin To Net: NetName=GND_2 Pin=C16-2
+Added Pin To Net: NetName=GND_2 Pin=C17-2
+Added Pin To Net: NetName=GND_2 Pin=C100-1
+Added Pin To Net: NetName=GND_2 Pin=C101-1
+Added Pin To Net: NetName=VCC Pin=C101-2
+Added Pin To Net: NetName=GND_2 Pin=ENC_L1-1
+Added Pin To Net: NetName=VCC Pin=ENC_L1-4
+Added Pin To Net: NetName=GND_2 Pin=END_R1-1
+Added Pin To Net: NetName=BTN1 Pin=END_R1-2
+Added Pin To Net: NetName=VCC Pin=END_R1-4
+Added Pin To Net: NetName=GND_2 Pin=IC10-1
+Added Pin To Net: NetName=VCC Pin=IC10-2
+Added Pin To Net: NetName=VCC Pin=IC10-4
+Added Pin To Net: NetName=GND_2 Pin=J1-11
+Added Pin To Net: NetName=GND_2 Pin=J1-13
+Added Pin To Net: NetName=GND_2 Pin=P1-6
+Added Pin To Net: NetName=GND_2 Pin=P1-9
+Added Pin To Net: NetName=GND_2 Pin=P1-14
+Added Pin To Net: NetName=GND_2 Pin=P1-20
+Added Pin To Net: NetName=GND_2 Pin=P1-25
+Added Pin To Net: NetName=GND_2 Pin=P1-30
+Added Pin To Net: NetName=GND_2 Pin=P1-34
+Added Pin To Net: NetName=GND_2 Pin=P1-39
+Added Pin To Net: NetName=GND_2 Pin=P3-4
+Added Pin To Net: NetName=GND_2 Pin=P4-2
+Added Pin To Net: NetName=GND_2 Pin=P5-1
+Added Pin To Net: NetName=VCC Pin=P5-2
+Added Pin To Net: NetName=BTN1 Pin=U2-1
+Added Pin To Net: NetName=GND_2 Pin=U2-7
+Added Pin To Net: NetName=VCC Pin=U2-14
+Added Pin To Net: NetName=GND_2 Pin=U3-10
+Added Pin To Net: NetName=GND_2 Pin=U3-19
+Change Net Name : Old Net Name=GND_2 New Net Name=GND
+Change Net Name : Old Net Name=VCC New Net Name=3V3

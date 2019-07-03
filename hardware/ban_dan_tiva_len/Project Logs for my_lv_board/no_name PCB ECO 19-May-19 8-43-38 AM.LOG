@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC Pin=P6-1
+Added Component: Designator=R12(RES-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=R12-1
+Added Pin To Net: NetName=NetP6_1 Pin=P6-1
+Added Pin To Net: NetName=NetP6_1 Pin=R12-2
+Added Net: Name=NetP6_1
+Added Member To Class: ClassName=no_name Member=Component R12 RESISTOR SMD

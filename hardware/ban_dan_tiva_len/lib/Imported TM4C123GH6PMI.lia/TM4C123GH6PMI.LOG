@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : TM4C123GH6PMI.LibPkg
+
+Section : E:\Project\altium\my_lv_board\lib\TM4C123GH6PMI.lia
+    Section : PCB Library - TM4C123GH6PMI.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token TM4C123GH6PMI On Line 187
+            Warning - 1 : Skipping Token attachedSymbol On Line 854
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - TM4C123GH6PMI.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 150
+            Warning - 1 : Skipping Token layerContents On Line 154
+            Warning - 1 : Skipping Token layerContents On Line 158
+            Warning - 1 : Skipping Token layerContents On Line 164
+            Warning - 1 : Skipping Token isVisible On Line 770
+        EndSection
+
+        Section : Generating SCH Library - TM4C123GH6PMI.SchLib
+        EndSection
+    EndSection
+EndSection

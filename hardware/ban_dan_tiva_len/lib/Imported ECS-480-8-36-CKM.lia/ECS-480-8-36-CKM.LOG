@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : ECS-480-8-36-CKM.LibPkg
+
+Section : E:\Project\altium\my_lv_board\lib\ECS-480-8-36-CKM.lia
+    Section : PCB Library - ECS-480-8-36-CKM.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ECS-480-8-36-CKM On Line 119
+            Warning - 1 : Skipping Token attachedSymbol On Line 186
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ECS-480-8-36-CKM.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 90
+            Warning - 1 : Skipping Token layerContents On Line 99
+            Warning - 1 : Skipping Token layerContents On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 114
+        EndSection
+
+        Section : Generating SCH Library - ECS-480-8-36-CKM.SchLib
+        EndSection
+    EndSection
+EndSection

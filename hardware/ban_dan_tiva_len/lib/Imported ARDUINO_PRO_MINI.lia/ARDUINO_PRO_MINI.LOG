@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : ARDUINO_PRO_MINI.LibPkg
+
+Section : E:\Project\altium\my_mb_ahihi\LIB\ARDUINO_PRO_MINI.lia
+    Section : PCB Library - ARDUINO_PRO_MINI.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token PRO_MINI On Line 138
+            Warning - 1 : Skipping Token attachedSymbol On Line 445
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*ARDUINO_PRO_MINI][Primary] associated with PCAD Component [ARDUINO_PRO_MINI] has been renamed to PCB FootPrint [*ARDUINO_PRO_MINI_ARDUINO_PRO_MINI(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - ARDUINO_PRO_MINI.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 128
+        EndSection
+
+        Section : Generating SCH Library - ARDUINO_PRO_MINI.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*ARDUINO_PRO_MINI][Primary] associated with PCAD Component [ARDUINO_PRO_MINI] has been renamed to PCB FootPrint [*ARDUINO_PRO_MINI_ARDUINO_PRO_MINI(Primary)].
+        EndSection
+    EndSection
+EndSection

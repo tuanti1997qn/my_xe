@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : RT9193-33GB.LibPkg
+
+Section : E:\Project\altium\my_lv_board\lib\RT9193-33GB.lia
+    Section : PCB Library - RT9193-33GB.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token RT9193-33GB On Line 118
+            Warning - 1 : Skipping Token attachedSymbol On Line 195
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - RT9193-33GB.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 91
+            Warning - 1 : Skipping Token layerContents On Line 99
+            Warning - 1 : Skipping Token layerContents On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 113
+        EndSection
+
+        Section : Generating SCH Library - RT9193-33GB.SchLib
+        EndSection
+    EndSection
+EndSection

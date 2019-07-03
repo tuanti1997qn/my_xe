@@ -1,0 +1,26 @@
+Importer Log Report
+Project : Adafruit 128x64 Mono OLED PCB v2.PrjPcb
+
+Section : Analyze Document - E:\Project\altium\my_lv_board\lib\Adafruit-128x64-Monochrome-OLED-PCB-master\Adafruit 128x64 Mono OLED PCB v2.brd
+    Analyzing data of E:\Project\altium\my_lv_board\lib\Adafruit-128x64-Monochrome-OLED-PCB-master\Adafruit 128x64 Mono OLED PCB v2.brd
+    Load settings
+    Load layers 121
+    Load Library "microbuilder"
+    Load Packages 12
+EndSection
+
+Section : Analyze Document - E:\Project\altium\my_lv_board\lib\Adafruit-128x64-Monochrome-OLED-PCB-master\Adafruit 128x64 Mono OLED PCB v2.sch
+    Analyzing data of E:\Project\altium\my_lv_board\lib\Adafruit-128x64-Monochrome-OLED-PCB-master\Adafruit 128x64 Mono OLED PCB v2.sch
+    Load settings
+    Load layers 121
+    Load schematic
+    Load Libraries 1
+    Load Library "microbuilder"
+    Load Packages 36
+    Load Symbols 14
+    Load DeviceSets 14
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 53
+    Load Sheets 1
+EndSection

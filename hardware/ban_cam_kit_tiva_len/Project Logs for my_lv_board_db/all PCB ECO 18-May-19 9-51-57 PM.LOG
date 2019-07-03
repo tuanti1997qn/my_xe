@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=BTN3 Pin=1-13
+Added Pin To Net: NetName=BTN3 Pin=1-11

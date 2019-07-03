@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=3V3 Pin=P3-1
+Added Component: Designator=IC10(SOT223-4N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LM317"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC10-1
+Added Pin To Net: NetName=3V3 Pin=IC10-2
+Added Pin To Net: NetName=+5 Pin=IC10-3
+Added Pin To Net: NetName=3V3 Pin=IC10-4
+Added Member To Class: ClassName=lv Member=Component IC10 LM1117
+Added Member To Class: ClassName=dh Member=Component R3 RESISTOR SMD
+Added Member To Class: ClassName=dh Member=Component R4 RESISTOR SMD

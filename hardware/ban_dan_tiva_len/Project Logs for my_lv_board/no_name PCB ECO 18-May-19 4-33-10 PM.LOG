@@ -1,0 +1,106 @@
+Change Component Designator: OldDesignator=R4 NewDesignator=R11
+Added Component: Designator=BT2(SW4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BT3(SW4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BT4(SW4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C13(CAP-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED_0805_Blue)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(LED_0805_Blue)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(LED_0805_Blue)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6(LED_0805_Blue)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(RES-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT2-1
+Added Pin To Net: NetName=GND Pin=BT2-1
+Added Pin To Net: NetName=BTN_DEBUG_1 Pin=BT2-2
+Added Pin To Net: NetName=BTN_DEBUG_1 Pin=BT2-2
+Added Pin To Net: NetName=GND Pin=BT3-1
+Added Pin To Net: NetName=GND Pin=BT3-1
+Added Pin To Net: NetName=BTN_DEBUG_2 Pin=BT3-2
+Added Pin To Net: NetName=BTN_DEBUG_2 Pin=BT3-2
+Added Pin To Net: NetName=GND Pin=BT4-1
+Added Pin To Net: NetName=GND Pin=BT4-1
+Added Pin To Net: NetName=BTN_DEBUG_3 Pin=BT4-2
+Added Pin To Net: NetName=BTN_DEBUG_3 Pin=BT4-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=BTN_DEBUG_1 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=BTN_DEBUG_2 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=BTN_DEBUG_3 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=LED_DEBUG_1 Pin=R4-2
+Added Pin To Net: NetName=LED_DEBUG_2 Pin=R5-2
+Added Pin To Net: NetName=LED_DEBUG_3 Pin=R6-2
+Added Pin To Net: NetName=LED_DEBUG_4 Pin=R7-2
+Added Pin To Net: NetName=BTN_DEBUG_1 Pin=R8-1
+Added Pin To Net: NetName=3V3 Pin=R8-2
+Added Pin To Net: NetName=BTN_DEBUG_2 Pin=R9-1
+Added Pin To Net: NetName=3V3 Pin=R9-2
+Added Pin To Net: NetName=BTN_DEBUG_3 Pin=R10-1
+Added Pin To Net: NetName=3V3 Pin=R10-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R4-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R5-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R6-1
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R7-1
+Added Net: Name=NetD6_1
+Added Member To Class: ClassName=no_name Member=Component BT2 BT
+Added Member To Class: ClassName=no_name Member=Component BT3 BT
+Added Member To Class: ClassName=no_name Member=Component BT4 BT
+Added Member To Class: ClassName=no_name Member=Component C13 Cap Non-Pol SMD
+Added Member To Class: ClassName=no_name Member=Component C14 Cap Non-Pol SMD
+Added Member To Class: ClassName=no_name Member=Component C15 Cap Non-Pol SMD
+Added Member To Class: ClassName=no_name Member=Component D3 LED SMD
+Added Member To Class: ClassName=no_name Member=Component D4 LED SMD
+Added Member To Class: ClassName=no_name Member=Component D5 LED SMD
+Added Member To Class: ClassName=no_name Member=Component D6 LED SMD
+Added Member To Class: ClassName=no_name Member=Component R5 RESISTOR SMD
+Added Member To Class: ClassName=no_name Member=Component R6 RESISTOR SMD
+Added Member To Class: ClassName=no_name Member=Component R7 RESISTOR SMD
+Added Member To Class: ClassName=no_name Member=Component R8 RESISTOR SMD
+Added Member To Class: ClassName=no_name Member=Component R9 RESISTOR SMD
+Added Member To Class: ClassName=no_name Member=Component R10 RESISTOR SMD
+Added Member To Class: ClassName=no_name Member=Component R11 RESISTOR SMD

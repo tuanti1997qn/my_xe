@@ -1,0 +1,20 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~my_lv_board.PrjPcb|ReportField=ProjectFullPath~E:\Project\altium\my_lv_board\my_lv_board.PrjPcb|ReportField=Title~Bill of Materials For Project [my_lv_board.PrjPcb] (No PCB Document Selected)|ReportField=ReportTime~2:42:09 PM|ReportField=ReportDate~07-Jun-19|ReportField=ReportDateTime~07-Jun-19 2:42:09 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~57|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~07-Jun-19|ReportField=CurrentTime~2:42:02 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\Project\altium\my_lv_board\no_name.SchDoc|ReportField=DocumentName~no_name.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~29-May-19|ReportField=Organization~|ReportField=ProjectName~my_lv_board.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~my_lv_board.PrjPcb|ReportField=DataSourceFullPath~E:\Project\altium\my_lv_board\my_lv_board.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|ARDUINO_PRO_MINI|Arduino Pro Mini 328 - 3.3V/8 MHz|B1|*ARDUINO_PRO_MINI_ARDUINO_PRO_MINI(Primary)|ARDUINO_PRO_MINI|1
+2|BT||BT1, PE2, PE3, PF4|SW4|BUTTON|4
+3|Cap Non-Pol SMD|Capacitor|C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15|CAP-SM-0805|Cap Non-Pol SMD|15
+4|LED SMD|LED|D1, D2, PB4, PB5, PB6, PB7|LED_0805_Blue|LED SMD|6
+5|DEBUG PORT|Header, 7-Pin|debug_port|HDR1X7|Header 7|1
+6|shrouded box header|Header THD 14 POS Double-row right-angle 2.54mm pitch|DRV|14P_PCB_HEADER_BRD_MNT_RA|CONN_HEADER_2x7P_RA_0.100in_Male|1
+7|ENC_L|Connector 4|ENC_L|CON4|Con4|1
+8|END_R|Connector 4|END_R|CON4|Con4|1
+9|Hole|Hole 3mm|H1, H2, H3, H4, H5|LO KHOAN 3MM|Hole|5
+10|Header 4|Header, 4-Pin|imu_connector, P5|HDR1X4|Header 4|2
+11|Header 2|Header, 2-Pin|P4|HDR1X2|Header 2|1
+12|Header 8|Header, 8-Pin|P6|HDR1X8|Header 8|1
+13|RESISTOR SMD|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12|RES-SM-0805|RESISTOR SMD|12
+14|Header 20X2|Header, 20-Pin, Dual row|RASPI|HDR2X20|Header 20X2|1
+15|RT9193-33GB|RT9193 Series 300 mA 3.3 V Ultra-Low Noise Ultra-Fast CMOS LDO Regulator-SC-70-5|U1|*SOT94P279X129-5N|RT9193-33GB|1
+16|TM4C123GH6PMI|MCU 32-Bit Tiva C ARM Cortex M4F RISC 256KB Flash 1.2V/3.3V 64-Pin LQFP Tray/Tube|U2|*QFP50P1200X1200X160-64N|TM4C123GH6PMI|1
+17|SN74HC14DR|Inverter Schmitt Trigger 6-Element CMOS 14-Pin SOIC T/R|U3|*SOIC127P600X175-14N|SN74HC14DR|1
+18|SN74HC245DWR|Logic IC - Receiver, transceiver Texas Instruments SN74HC245DWR SOIC 20|U4|*SOIC127P1030X265-20N|SN74HC245DWR|1
+19|ECS-480-8-36-CKM|The miniature ECX-2236 is a very compact SMD Crystal. The 2.5 x 2.0 x 0.55 mm ceramic package is ideal for today's SMD manufacturing environment.|Y1|*XTAL_ECS-480-8-36-CKM|ECS-480-8-36-CKM|1

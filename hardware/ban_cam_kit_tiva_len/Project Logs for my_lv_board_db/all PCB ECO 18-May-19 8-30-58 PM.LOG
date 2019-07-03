@@ -1,0 +1,20 @@
+Added Component: Designator=U?(my_footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "0"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "1"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2.8-3.3V"; Value = "2.8-3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "128x64OLED"; Value = "128x64 OLED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connect"; Value = "Connect"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller"; Value = "Controller:"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = "0.96""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "DISP_OLED_UG-2864HSWEG01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "forI2C"; Value = "for I2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I2C"; Value = "I2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "microbuilder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPI3"; Value = "SPI3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPI4"; Value = "SPI4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SSD1306"; Value = "SSD1306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "UG-2864HSWEG01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDD"; Value = "VDD:"; VariantName = "[No Variations]"
+Added Class: Name=dh

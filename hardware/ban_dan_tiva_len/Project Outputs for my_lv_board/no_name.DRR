@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: no_name.PcbDoc   21-May-19  4:55:41 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : no_name.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             37        PTH        0.00inch (0.00mm)
+T2      20mil (0.508mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T3      28mil (0.711mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T4      30mil (0.762mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T5      31mil (0.787mm)                                           Round             16        PTH        0.00inch (0.00mm)
+T6      34mil (0.864mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T7      35mil (0.899mm)                                           Round             53        PTH        0.00inch (0.00mm)
+T8      42mil (1.067mm)                                           Round             14        PTH        0.00inch (0.00mm)
+T9      118mil (3mm)                                              Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              136
+
+Total Processing Time (hh:mm:ss) : 00:00:00

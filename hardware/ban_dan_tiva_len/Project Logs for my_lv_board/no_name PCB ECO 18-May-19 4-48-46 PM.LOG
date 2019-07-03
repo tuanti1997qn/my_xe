@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=P4-1
+Removed Pin From Net: NetName=3V3 Pin=P4-2
+Change Component Designator: OldDesignator=PB4 NewDesignator=D3
+Change Component Designator: OldDesignator=PB5 NewDesignator=D4
+Change Component Designator: OldDesignator=PB6 NewDesignator=D5
+Change Component Designator: OldDesignator=PB7 NewDesignator=D6
+Change Component Designator: OldDesignator=PE2 NewDesignator=BT4
+Change Component Designator: OldDesignator=PE3 NewDesignator=BT3
+Change Component Designator: OldDesignator=PF4 NewDesignator=BT2
+Added Pin To Net: NetName=GND_2 Pin=P4-1
+Added Pin To Net: NetName=VCC Pin=P4-2

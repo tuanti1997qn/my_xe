@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=RST_AB Pin=U4-2
+Removed Pin From Net: NetName=PWM_A Pin=U4-3
+Removed Pin From Net: NetName=RST_CD Pin=U4-4
+Removed Pin From Net: NetName=PWMC Pin=U4-5
+Removed Pin From Net: NetName=H-BRG_PWMC Pin=U4-15
+Removed Pin From Net: NetName=H-BRG_/RSTCD Pin=U4-16
+Removed Pin From Net: NetName=H-BRG_PWMA Pin=U4-17
+Removed Pin From Net: NetName=H-BRG_/RSTAB Pin=U4-18
+Change Component Designator: OldDesignator=ENC_L NewDesignator=JP1
+Change Component Designator: OldDesignator=ENC_R NewDesignator=JP2
+Added Pin To Net: NetName=PWMC Pin=U4-2
+Added Pin To Net: NetName=RST_CD Pin=U4-3
+Added Pin To Net: NetName=PWM_A Pin=U4-4
+Added Pin To Net: NetName=RST_AB Pin=U4-5
+Added Pin To Net: NetName=H-BRG_/RSTAB Pin=U4-15
+Added Pin To Net: NetName=H-BRG_PWMA Pin=U4-16
+Added Pin To Net: NetName=H-BRG_/RSTCD Pin=U4-17
+Added Pin To Net: NetName=H-BRG_PWMC Pin=U4-18

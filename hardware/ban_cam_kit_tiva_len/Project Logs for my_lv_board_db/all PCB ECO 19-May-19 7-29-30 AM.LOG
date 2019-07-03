@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=BTN1 Pin=1-2
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Added Component: Designator=R3(RES-SM-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES-SM-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BTN1 Pin=1-3
+Added Pin To Net: NetName=VCC_IN Pin=R3-2
+Added Pin To Net: NetName=GND_2 Pin=R4-1
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR8_2
+Added Pin To Net: NetName=ADC Pin=1-2
+Added Pin To Net: NetName=ADC Pin=R3-1
+Added Pin To Net: NetName=ADC Pin=R4-2
+Added Net: Name=ADC
+Added Member To Class: ClassName=dh Member=Component R10 RESISTOR SMD
+Added Member To Class: ClassName=dh Member=Component R11 RESISTOR SMD

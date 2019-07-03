@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=BT2 NewDesignator=PF4
+Change Component Designator: OldDesignator=BT3 NewDesignator=PE3
+Change Component Designator: OldDesignator=BT4 NewDesignator=PE2
+Change Component Designator: OldDesignator=D3 NewDesignator=PB4
+Change Component Designator: OldDesignator=D4 NewDesignator=PB5
+Change Component Designator: OldDesignator=D5 NewDesignator=PB6
+Change Component Designator: OldDesignator=D6 NewDesignator=PB7
+Change Component Designator: OldDesignator=ENC_L NewDesignator=JP1
+Change Component Designator: OldDesignator=ENC_R NewDesignator=JP2
+Change Component Designator: OldDesignator=J1 NewDesignator=DRV
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetPB4_1
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetPB5_1
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetPB6_1
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetPB7_1

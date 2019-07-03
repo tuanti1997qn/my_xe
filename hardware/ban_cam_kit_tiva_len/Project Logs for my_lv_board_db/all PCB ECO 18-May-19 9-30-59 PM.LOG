@@ -1,0 +1,6 @@
+Added Component: Designator=R7(RES-SM-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net2_2 Pin=R7-1
+Added Pin To Net: NetName=Net2_1 Pin=R7-2
+Added Member To Class: ClassName=dh Member=Component R7 RESISTOR SMD

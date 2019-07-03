@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : SN74HC245DWR.LibPkg
+
+Section : E:\Project\altium\my_lv_board\lib\SN74HC245DWR.lia
+    Section : PCB Library - SN74HC245DWR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token SN74HC245DWR On Line 307
+            Warning - 1 : Skipping Token attachedSymbol On Line 534
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - SN74HC245DWR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 199
+            Warning - 1 : Skipping Token layerContents On Line 292
+        EndSection
+
+        Section : Generating SCH Library - SN74HC245DWR.SchLib
+        EndSection
+    EndSection
+EndSection
