@@ -1,6 +1,6 @@
 # Automotive vehicle base on ROS: the movebase part
 The movebase part help user jump over some basic step like: design car, hardware, low-level control firmware and can quickly develop their own dapplication.
-![image car](./xe_1/myxe)
+![image car](./xe_1/xe_image.png)
 
 ## feature
 - Simple car's model.
